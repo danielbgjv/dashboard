@@ -10,7 +10,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>BrTokens dashboard</title>
-        <meta name="description" content="Created by streamline" />
+        <meta name="description" content="Criado por BrTokens" />
         {/* <link rel="icon" href="/pro.ico" /> */}
       </Head>
       <div className={styles.container}>
